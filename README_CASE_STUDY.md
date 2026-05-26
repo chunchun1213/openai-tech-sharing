@@ -26,6 +26,8 @@
 | 自動化 | Codex Automations | 建立每日講師回覆檢查流程。 |
 | Browser | `browser` | 驗證儀表板、活動官網與手機版畫面。 |
 | Netlify | `netlify` | 部署活動官網並檢查正式網址。 |
+| 本地腳本 | Python scripts | 將資料整理、識別證產出、儀表板資料與官網資料轉換做成可重跑流程。 |
+| 版本控管 | Git / GitHub | 管理公開版 Markdown 文件、建立 commit，並推送到分享 repo。 |
 
 ## 對話歷程總覽
 
