@@ -19,6 +19,7 @@
 | Skill 建立 | `skill-creator` | 建立與驗證自訂 Skill。 |
 | 文件處理 | `documents` | 製作與檢查 Word 文件，例如簽到表。 |
 | 試算表處理 | `spreadsheets` | 建立與整理 Excel，例如員工需求總表與講師追蹤表。 |
+| PDF 處理 | `pdf` | 產生、整理與檢查 PDF，例如全員識別證 PDF。 |
 | 簡報處理 | `presentations` | 產生活動企劃簡報與預覽資料。 |
 | 圖像生成 | `imagegen` | 規劃與產生識別證底圖。 |
 | Gmail | `gmail` | 建立講師邀請信草稿，並確認不直接寄出。 |
